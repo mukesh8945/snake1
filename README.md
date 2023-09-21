@@ -1,2 +1,1 @@
-# snake1
-My Snake Game Application
+# html-css-js-project-boilerplate
